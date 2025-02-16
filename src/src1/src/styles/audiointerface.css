@@ -1,0 +1,8 @@
+.audioInsterfaceWrapper {
+  z-index: 200;
+  position: absolute;
+  top: 0;
+  right: 0;
+  background-color: blueviolet;
+  margin: 4px;
+}
