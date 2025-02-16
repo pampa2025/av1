@@ -23,6 +23,8 @@
 		"zustand": "^4.5.6"
 	},
 	"devDependencies": {
+		"@rsbuild/core": "^0.7.3",
+		"@rsbuild/plugin-react": "^0.7.3",
 		"@theatre/core": "^0.7.2",
 		"@theatre/r3f": "^0.7.2",
 		"@theatre/studio": "^0.7.2",
