@@ -43,7 +43,7 @@
 		"rimraf": "^5.0.5",
 		"sass": "^1.71.1",
 		"three-mesh-bvh": "^0.8.0",
-		"typescript": "^5.3.3",
+		"typescript": "^5.3.3"
 	},
 	"prettier": {
 		"singleQuote": true,
