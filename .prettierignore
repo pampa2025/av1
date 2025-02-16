@@ -1,0 +1,6 @@
+**/*.frag
+**/*.vert
+**/*.geom
+**/*.glsl
+**/*.hlsl
+**/*.spv
